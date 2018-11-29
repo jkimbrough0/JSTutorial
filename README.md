@@ -2,14 +2,14 @@
 Basic to Advanced JS code samples
 
 ## Topics covered:
-  Arrays,
-  Class Lists
-  Complex Numbers
-  Delete
-  Enumeration
-  Functions
-  Range
-  Sets
-  Defining Functions
-  Loop Closures
-  OnLoad
+  Arrays<br/>
+  Class Lists<br/>
+  Complex Numbers<br/>
+  Delete<br/>
+  Enumeration<br/>
+  Functions<br/>
+  Range<br/>
+  Sets<br/>
+  Defining Functions<br/>
+  Loop Closures<br/>
+  OnLoad<br/>
