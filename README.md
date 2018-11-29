@@ -2,7 +2,7 @@
 Basic to Advanced JS code samples
 
 ## Topics covered:
-  Arrays
+  Arrays,
   Class Lists
   Complex Numbers
   Delete
